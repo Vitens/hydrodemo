@@ -5,4 +5,4 @@ print("Hello World!")
 def connect():
     print("Connecting to Lizard API...")
 
-# this is amazing
+# dit is echt onzin
